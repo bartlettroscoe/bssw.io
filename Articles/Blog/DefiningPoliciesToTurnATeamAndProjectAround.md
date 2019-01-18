@@ -8,9 +8,9 @@ When trying to decide what software engineering best practices to apply to your 
 
 ### EMPIRE's Story
 
-Prior to the summer of 2017, the EMPIRE team&mdash;working on a next-generation electrostatic/electromagnetic/fluid dynamic code under the Advanced Technology Development and Mitigation program under the DOE Exascale Computing Project&mdash;was a bit of an unorganized mess.  Confusion arose as to who was actually on the team, what people were working on, what needed to be done, and how one went about getting started.  There were a few separate repositories, largely developed by one lone coder each, with no integration.  Pushes happened directly to "master." Testing, documentation, and code review were minimal.  In short, it was the wild west.
+Prior to the summer of 2017, the EMPIRE team&mdash;working on a next-generation electrostatic/electromagnetic/fluid dynamic code under the Advanced Technology Development and Mitigation program under the DOE Exascale Computing Project&mdash;was using some processes that could be improved.  Confusion arose as to team composition, what people were working on, what needed to be done, and how one went about getting started.  There were a few separate repositories, largely developed by one lone coder each, with no integration.  Pushes happened directly to "master." Testing, documentation, and code review were minimal.  In short, there were some potential areas for improvment.
 
-At the time, a few team members realized that if we were to hit the various milestones that loomed ominously ahead of us, we needed to rethink how we did things.  We wound up getting everyone in one room together (which was the first time I realized I was even part of this team) and made a few key decisions for moving forward.
+At the time, a few team members realized that if we were to hit the various milestones that loomed ominously ahead of us, we needed to rethink how we did a few things.  We wound up getting everyone in one room together and made a few key decisions for moving forward.
 
 First and foremost, we decided to use [GitLab] (https://gitlab.com) for everything we could; and with that as our starting point, we needed some sort of
 * issue tracking;
@@ -56,7 +56,7 @@ With regard to testing, we had a particular problem we were trying to solve wher
 
 ### What Did All That Buy Us?
 
-A lot.  We are easily in an infinitely better spot today than we were a year ago.  Of course we can improve, but that situation will always be true.  Here are some specific outcomes.
+A lot.  We are in a much better spot today than we were a year ago.  Of course we can improve, but that situation will always be true.  Here are some specific outcomes.
 *  The combination of GitLab issues and merge requests has meant that **design discussions now happen that would not have otherwise.**  "Is that the best way to do things?"  "What you have currently works but won't be performant on GPUs, so we should restructure things this way."  "Actually, given what someone else is working on, we probably want to restructure how we do this so the two will work better together."  Previously such discussions simply didn't happen, and we were left to deal with the consequences when problems arose.  Additionally, team members now find themselves more knowledgeable about the code itself, and all the work being done on it, provided they pay attention to their GitLab notifications.
 *  The combination of documenation and code style guidelines has given the code a **common look and feel** that makes the code significantly easier to pick up and understand.  This is important when onboarding new members, but also in cases where current team members are coming up to speed on sections of the code they haven't touched yet.
 *  The combination of git workflow and automated testing has made the code **significantly more stable.**  A year ago we had three repositories with no interaction.  Today we're up to five repositories that are intimately integrated, and our automated testing is crucial for letting us know when something goes wrong, and where, so we can tackle the problem as soon as possible.
