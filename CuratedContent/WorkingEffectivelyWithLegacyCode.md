@@ -94,7 +94,6 @@ After reading this book, you should be convinced of the need for unit testing an
 
 References | &nbsp;
 :--- | :---
-
 <a name="ref1"></a>1 | [Fowler, Martin. Refactoring, Addison Wesley, 1999](https://martinfowler.com/books/refactoring.html)
 <a name="ref2"></a>1 | [Feathers, Micheal C. Working Effectively with Legacy Code.  Prentice Hall, 2004, ISBN: 0131177052](https://www.oreilly.com/library/view/working-effectively-with/0131177052/)
 <a name="ref3"></a>1 | [Martin, Robert C. Agile Software Development (Principles, Patterns, and Practices). Prentice Hall, 2003](https://www.pearson.com/us/higher-education/program/Martin-Agile-Software-Development-Principles-Patterns-and-Practices/PGM272869.html)
