@@ -6,6 +6,7 @@ permalink: bssw_content_publishing.html
 
 
 ## What is this document?
+
 This is a review checklist for all content that goes on the BSSw site.
 
 ## When should one use it?
@@ -19,13 +20,16 @@ This document provides a list of checks to be performed (1) when a new content i
 * Done
 
 ## What are Topic review Checks?
+
 * Is the proposed content in scope for BSSw?
 * Would the proposed content "fit" with existing content? (e.g.,  should it be a revision to or merger with am existing article rather than a separate article?)
 
 ## What are Item Review Checks?
+
 The following steps assume that the BSSw editorial team has already determined that the topic is appropriate scope for BSSw.io.
 
 ### Sensitivity Checks
+
 * Confirm that the article is written as per the predetermined scope outlined during the “topic review” phase, or determine suggested revisions/clarifications.
 * Gender neutrality - BSSw.io article prefer to be gender neutral.
 * Article tone - BSSw.io articles prefer to be polite and not offend any sensibilities of our intended audience 
@@ -36,6 +40,7 @@ The following steps assume that the BSSw editorial team has already determined t
 * Additional professional proofreading needed?
 
 ### Style/formatting Checks
+
 * Adheres to the style guide for the specific content.
 * Logo/image formatting - Please check for this unless style guide is specific instructions.
 * Grammar, punctuation, spelling, syntax.
@@ -44,6 +49,7 @@ The following steps assume that the BSSw editorial team has already determined t
 * Past events of the same conferences/workshops/etc. are not deleted and just kept as archives.
 
 ### Pre-publishing Checks
+
 * Finalize the category(ies), topic(s) and other parameters in metadata.
 * Add the `preview` label on the PR (so PR branch will merge to 'preview' branch)
 * Check on preview site to confirm overall display ("Publish: preview" in metadata).
