@@ -13,7 +13,9 @@ Jeremy Melvin is an ICES postdoctoral fellow at the University of Texas at Austi
 
 Advance registration is required through the event website.
 
-#### Contributed by [Mary Ann Leung](https://github.com/shinstitute "Mary Ann Leung GitHub Profile") and [Jeremy Melvin](https://github.com/jamelvin "Jeremy Melvin GitHub Profile") 
+#### Contributed by [Mary Ann Leung](https://github.com/maleung "Mary Ann Leung GitHub Profile") and [Jeremy Melvin](https://github.com/jamelvin "Jeremy Melvin GitHub Profile") 
+
+#### Publication date: August 24, 2018
 
 <!---
 Publish: yes

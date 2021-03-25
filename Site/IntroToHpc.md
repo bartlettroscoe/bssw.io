@@ -14,7 +14,7 @@ Early supercomputers tended to rely on custom processors that were typically fas
 
 ### Why Is HPC So Important?
 
-HPC and [computational science and engineering (CSE)](IntroToCSE.md) are intertwined in a symbiotic relationship: HPC technology enables breakthroughs in CSE research, and leading-edge CSE applications are the main drivers for the evolution of supercomputer systems.  Advances in CSE typically come from some combination of being able to model larger physical systems, with greater resolution, for longer periods of time, and with greater fidelity to the actual physics.  These improvements are enabled by a combination of computer hardware and the software (and algorithms) that run on it.  Enabled by increasingly powerful supercomputers, computational modeling, simulation, and analytics have become increasingly important components of modern science. HPC-enabled CSE is also playing an increasingly significant role in industry.
+HPC and [computational science and engineering (CSE)](https://bssw.io/pages/intro-to-cse) are intertwined in a symbiotic relationship: HPC technology enables breakthroughs in CSE research, and leading-edge CSE applications are the main drivers for the evolution of supercomputer systems.  Advances in CSE typically come from some combination of being able to model larger physical systems, with greater resolution, for longer periods of time, and with greater fidelity to the actual physics.  These improvements are enabled by a combination of computer hardware and the software (and algorithms) that run on it.  Enabled by increasingly powerful supercomputers, computational modeling, simulation, and analytics have become increasingly important components of modern science. HPC-enabled CSE is also playing an increasingly significant role in industry.
 
 ### What Are the Unique Aspects of HPC?
 
@@ -25,10 +25,10 @@ CSE software on high-performance computers must address a broad range of complex
 - [Wikipedia](https://wikipedia.org) entry on [Supercomputers](https://en.wikipedia.org/wiki/Supercomputer)
 - The [Pawsey Supercomputer Centre](https://www.pawsey.org.au/) [training material archive](https://support.pawsey.org.au/documentation/display/US/Training+Material) includes several introductory tutorials:
   - [Introductory Supercomputing](https://support.pawsey.org.au/documentation/download/attachments/2162899/Introductory%20Supercomputing.pdf?api=v2)
-  - [Introduction to Supercomputer Technology](https://support.pawsey.org.au/documentation/download/attachments/2162899/Introduction%20to%20Supercomputer%20Technology.pdf?api=v2)
   - [Intermediate Supercomputing](https://support.pawsey.org.au/documentation/download/attachments/2162899/Intermediate%20Supercomputing.pdf?api=v2)
 - The [Archer](http://www.archer.ac.uk/) (UK National Supercomputing Service) [training archive](http://www.archer.ac.uk/training/past_courses.php) includes a [Hands-On Introduction to HPC](http://www.archer.ac.uk/training/course-material/2016/11/intro_newcastle/index.php)
-- HPC software productivity challenges are discussed in the following community report: _**Software Productivity for Extreme-Scale Science**_, H. Johansen, L.C. McInnes, et al., 2014, Report on DOE Workshop, http://www.orau.gov/swproductivity2014/SoftwareProductivityWorkshopReport2014.pdf.
+- HPC software productivity challenges are discussed in the following community report: [_Software Productivity for Extreme-Scale Science_](https://science.osti.gov/-/media/ascr/pdf/research/cs/Exascale-Workshop/SoftwareProductivityWorkshopReport2014.pdf), H. Johansen, L.C. McInnes, et al., 2014, Report on DOE Workshop. 
+
 
 <!---  Currently we're not attributing the Intro articles
 #### Contributed by [Lois Curfman McInnes](https://github.com/curfman), [David E. Bernholdt](https://github.com/bernhold), [Suzanne Parete-Koon](https://github.com/suzannepk), and [Rebecca Hartman-Baker](https://github.com/hartmanbaker)

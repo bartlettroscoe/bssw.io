@@ -12,17 +12,24 @@ Webinars are scheduled on roughly a monthly basis and are available live and the
 
 **Webinars are free and open to the public, but advance registration is required (individually, for each session).**
 
-## Next webinar: Testing Fortran Software with pFUnit
+## Next webinar: Tools and Techniques for Floating-Point Analysis
 
-### Date and Time: Wednesday, April 10, 2019, 1:00-2:00 pm ET
-### Presenter: Thomas Clune (NASA/Goddard)
-### Description:
-Over the past two decades, the emergence of highly effective software testing frameworks has greatly simplified the development and use of unit tests and has led to new software development paradigms such as test driven development (TDD). However, technical computing introduces a number of unique testing challenges, including distributed parallelism and numerical accuracy. This webinar will begin with a basic introduction to the use of pFUnit to develop tests for MPI+Fortran software and then present some of the new capabilities in the latest release. We will also discuss some specialized methodologies for testing numerical algorithms and speculate about future framework capabilities that may improve our ability to test at exascale.
+### Date and Time: Wednesday, October 16, 2019, 1:00-2:00 pm ET 
+### Presenter: Ignacio Laguna, Lawrence Livermore National Laboratory
+### Description: 
+Scientific software is central to the practice of research computing. While software is widely used in many science and engineering disciplines to simulate real-world phenomena, developing accurate and reliable scientific software is notoriously difficult. One of the most serious difficulties comes from dealing with floating-point arithmetic to perform numerical computations. Round-off errors occur and accumulate at all levels of computation, while compiler optimizations and low-precision arithmetic can significantly affect the final computational results. With accelerators such as GPUs dominating high-performance computing systems, computational scientists are faced with even bigger challenges, given that ensuring numerical reproducibility in these systems poses a very difficult problem. This webinar provides highlights from a half-day tutorial discussing tools that are available today to analyze floating-point scientific software. We focus on tools that allow programmers to get insight about how different aspects of floating-point arithmetic affect their code and how to fix potential bugs.
 
 ### More info and registration link:
-https://ideas-productivity.org/events/hpc-best-practices-webinars/#webinar028
+https://ideas-productivity.org/events/hpc-best-practices-webinars/#webinar034
+
 
 ## Past Webinars
+- [*Discovering and Addressing Social Challenges in the Evolution of Scientific Software Projects*](https://ideas-productivity.org/events/hpc-best-practices-webinars/#webinar033), Rene Gassmoeller (UC Davis), 2019-09-11
+- [*Software Management Plans in Research Projects*](https://ideas-productivity.org/events/hpc-best-practices-webinars/#webinar032), Shoaib Sufi (Software Sustainabilty Institute, UK), 2019-08-14
+- [*When 100 Flops/Watt was a Giant Leap: The Apollo Guidance Computer Hardware, Software and Application in Moon Missions*](https://ideas-productivity.org/events/hpc-best-practices-webinars/#webinar031), Mark C. Miller (LLNL), 2019-07-17
+- [*Modern C++ for High-Performance Computing*](https://ideas-productivity.org/events/hpc-best-practices-webinars/#webinar030), Andrew Lumsdaine (PNNL and University of Washington), 2019-06-12
+- [*So, You Want to Be Agile? Strategies for Introducing Agility into Your Scientific Software Project*](https://ideas-productivity.org/events/hpc-best-practices-webinars/#webinar029), Mike Heroux (SNL), 2019-05-08
+- [*Testing Fortran Software with pFUnit*](https://ideas-productivity.org/events/hpc-best-practices-webinars/#webinar028), Thomas Clune (NASA/Goddard), 2019-04-10
 - [*I/O with HDF5: Overview, Tuning, and New Features*](https://ideas-productivity.org/events/hpc-best-practices-webinars/#webinar027), Quincey Koziol (NERSC), 2019-03-13
 - [*Containers in HPC*](https://ideas-productivity.org/events/hpc-best-practices-webinars/#webinar026), Shane Canon (LBNL), 2019-02-13
 - [*Quantitatively Assessing Performance Portability with Roofline*](https://ideas-productivity.org/events/hpc-best-practices-webinars/#webinar025), John Pennycook (Intel), Charlene Yang (LBNL) and Jack Deslippe (LBNL), 2019-01-23
@@ -61,8 +68,10 @@ Below, are some of the webinars which have been referenced elsewhere on the Bett
 - [Bringing Best Practices to a Long-Lived Production Code](../CuratedContent/Webinar.HPCBP014BestPractices.md)
 --->
 
+#### Publication date: February 28, 2020
+
 <!---
-Publish: yes
+Publish: no
 RSS update: 2018-08-31
 Categories: skills
 Topics: online learning

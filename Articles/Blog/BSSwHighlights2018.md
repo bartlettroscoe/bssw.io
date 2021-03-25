@@ -11,14 +11,14 @@ Launched in November 2017, the Better Scientific Software (BSSw) site features a
 who are sharing their perspectives on challenges, strategies, and best practices for improving developer productivity and software sustainability.  As the new year begins, we thank the entire BSSw community for ongoing work toward better scientific software, and we highlight a few BSSw resources contributed in 2018.   We hope that you may discover connections in BSSw resources to your circumstances and priorities.  We invite you to peruse the site for lots more content.
 
 ### Better Planning:
-- [Planning for Better Software: PSIP-Tools](https://bssw.io/items/planning-for-better-software-psip-tools), Mike Heroux
+- [Planning for Better Software: PSIP-Tools](https://bssw.io/items/planning-for-better-software-psip-tools), Mike Heroux and Rinku Gupta
 - [Adopting Continuous Integration for Long-Timescale Materials](https://bssw.io/blog_posts/adopting-continuous-integration-for-long-timescale-materials-simulation), Richard Zamora
 
 ### Better Development:
 - [SuperLU: How Advances in Software Practices Are Increasing Sustainability and Collaboration](https://bssw.io/blog_posts/superlu-how-advances-in-software-practices-are-increasing-sustainability-and-collaboration), Xiaoye Li
 - [Can You Teach an Old Code New Tricks?](https://bssw.io/blog_posts/can-you-teach-an-old-code-new-tricks), Charles Ferenbaugh
-- [Best Practices for Scientific Computing](https://bssw.io/items/best-practices-for-scientific-computing), Patricia Grubel
-- [Integrated Development Environments (IDEs) for Scientific Software Development](https://bssw.io/items/integrated-development-environments-ides-for-scientific-software-development), Greg Watson
+- [Exploring Best Practices for Scientific Computing](https://bssw.io/items/exploring-best-practices-for-scientific-computing), Patricia Grubel
+- [An Introduction to Integrated Development Environments (IDEs) for Scientific Software Development](https://bssw.io/items/an-introduction-to-integrated-development-environments-ides-for-scientific-software-development), Greg Watson
 
 ### Better Reliability:
 - [Better Science through Software Testing](https://bssw.io/blog_posts/better-science-through-software-testing), Tom Evans
@@ -37,7 +37,7 @@ who are sharing their perspectives on challenges, strategies, and best practices
 - [Think Locally, Act Globally: Outreach for Better Scientific Software](https://bssw.io/blog_posts/think-locally-act-globally-outreach-for-better-scientific-software), David Bernholdt
 - [Research Software Engineer: A New Career Track?](https://bssw.io/blog_posts/research-software-engineer-a-new-career-track), Chris Richardson
 - [URSSI: Conceptualizing a US Research Software Sustainability Institute](https://bssw.io/blog_posts/urssi-conceptualizing-a-us-research-software-sustainability-institute), Daniel S. Katz, Jeff Carver, Sandra Gesing, Karthik Ram, and Nic Weber
-- [Community Organizations: Changing the Culture in Which Research Software is Developed and Sustained](https://bssw.io/items/community-organizations-changing-the-culture-in-which-research-software-is-developed-and-sustained), Lois Curfman McInnes
+- [Exploring Community Organizations and their Role in Emerging Software Ecosystems](https://bssw.io/items/exploring-community-organizations-and-their-role-in-emerging-software-ecosystems), Lois Curfman McInnes
 
 ### Better Skills:
 - [Keeping Your Vision Fit for Years of Software Development](https://bssw.io/blog_posts/keeping-your-vision-fit-for-years-of-software-development), Mark Miller
@@ -45,7 +45,7 @@ who are sharing their perspectives on challenges, strategies, and best practices
 
 ### BSSw Succeeds by Your Contributions
 
-Join the BSSw community in raising awareness of the importance of good software practices to scientific productivity!  The BSSw site provides a venue to share information and experiences on scientific software issues.   If you have experience or expertise that can help other scientific software teams, we encourage you to [contribute to the BSSw site](https://bssw.io/contributes/new).  We welcome original articles, blog posts, curated links (brief articles that highlight other web-based content), and [event announcements](https://bssw.io/events).
+Join the BSSw community in raising awareness of the importance of good software practices to scientific productivity!  The BSSw site provides a venue to share information and experiences on scientific software issues.   If you have experience or expertise that can help other scientific software teams, we encourage you to [contribute to the BSSw site](https://bssw.io/pages/what-to-contribute-content-for-better-scientific-software).  We welcome original articles, blog posts, curated links (brief articles that highlight other web-based content), and [event announcements](https://bssw.io/events).
 
 ### Author Info
 David Bernholdt, Mike Heroux, and Lois Curfman McInnes serve as the founding editorial team for the Better Scientific Software site.  They are passionate about partnering with the computational science community to increase developer productivity and software sustainability.

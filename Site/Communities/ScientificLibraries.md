@@ -9,7 +9,7 @@ As computational science addresses more advanced modeling, simulation, and analy
 
 ## Where do I go next?
 - **Explore** the resources below.
-- **Investigate**  BSSw's offerings [BSSw Homepage](../Homepage.md).
+- **Investigate**  BSSw's offerings [BSSw Homepage](https://bssw.io).
 
 <!--
 Featured resources for the Scientific libraries community.
@@ -23,6 +23,7 @@ Edit this list to change resources that appear on the front-end site.
 * [Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE6.1)](../../Events/WSSSPE6.1.md)
 
 * [How to Configure Software](../../CuratedContent/HowToConfigureSw.md)
+
 
 <!---
 Publish: yes

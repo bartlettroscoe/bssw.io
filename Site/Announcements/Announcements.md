@@ -1,11 +1,88 @@
 # BSSw Announcements
 
-
 Announcement:
-- [New blog article ... 2018 BSSw Fellows Tackle Challenges in Scientific Productivity](../../Articles/Blog/Fellows2018Contributions.md)
-- Display dates: 03/28/2019 - 04/18/2019
+- [NSF joins DOE in sponsorship of the BSSw Fellowship Program](../../Articles/Blog/2021-03-2021BSSwFellowshipNSFAnnouncement.md)
+- Display dates: 03/16/2021 - 04/16/2021
 
-<!---
+
+<!--
+- [New blog article ... Introducing the 2021 BSSw Fellows](../../Articles/Blog/2020-12-2021BSSwFellowshipAnnouncement.md)
+- Display dates: 12/16/2020 - 04/16/2021
+
+- [Events at SC20 related to producing better scientific software ... Please join us there!](../../Events/SC20-sw-events.md)
+- Display dates: 10/29/2020 - 11/20/2020
+
+- [Applications for the 2021 BSSw Fellowship Program due by September 30](../../Articles/Blog/BSSwFellowshipApplicationsOpen2020.md)
+- Display dates: 09/11/2020 - 9/30/2020
+
+- [Call for Contributions: 2020 Collegeville Workshop on Scientific Software: Developer Productivity](../../Events/Collegeville2020.md)
+- Display dates: 05/29/2020 - 07/15/2020
+
+- [Productivity and Sustainability Improvement Planning (PSIP)](../../Articles/Blog/PsipMainPage.md)
+- Display dates: 03/15/2020 - 05/30/2020
+
+- [New blog article ... Cleaning your work surfaces: One way to help flatten the curve](../../Articles/Blog/Covid19WorkstationCleanliness-wikized.md)
+- Display dates: 03/15/2020 - 03/30/2020
+
+- Display dates: 01/31/2020 - 02/19/2020
+
+- [Webinar: Introduction to Kokkos](../../Events/hpcbp-037-kokkos.md)
+- Display dates: 01/19/2020 - 02/19/2020
+
+- [New blog article ... US Research Software Engineer (US-RSE) Association](../../Articles/Blog/2020-01-usrse.md)
+- Display dates: 01/17/2020 - 01/31/2020
+
+- [Better Scientific Software: 2019 Highlights](../../Articles/Blog/BSSwHighlights2019.md)
+- Display dates: 01/03/2020 - 01/28/2020
+
+- [Webinar: Building Community through xSDK Software Policies ... Join us on December 11](../../Events/hpcbp-035-policies.md)
+- Display dates: 11/25/2019 - 12/12/2019
+
+- [Events at SC19 related to producing better scientific software ... Please join us there!](../../Events/SC19-sw-events.md)
+- Display dates: 10/16/2019 - 11/25/2019
+
+- [Applications Open for 2020 BSSw Fellowship Program ... Submission deadline October 15, 2019](../../Articles/Blog/BSSwFellowshipApplicationsOpen2019.md)
+- Display dates: 09/24/2019 - 10/15/2019
+
+- [Applications Open for 2020 BSSw Fellowship Program ... Q&A Webinar on Sept 20, 2019](../../Articles/Blog/BSSwFellowshipApplicationsOpen2019.md)
+- Display dates: 09/04/2019 - 09/21/2019
+
+- [New blog article ... FLASH5 Refactoring and PSIP](../../Articles/Blog/FlashPsipProcess.md)
+- Display dates: 08/27/2019 - 09/16/2019
+
+- [New blog article ... Building Community through Software Policies](../../Articles/Blog//BuildingCommunitySoftwarePolicies.md)
+- Display dates: 08/12/2019 - 08/26/2019
+
+- [New blog article ... When NOT to Write Automated Tests?](../../Articles/Blog/WhenNotToWriteAutomatedTests.md)
+- Display dates: 07/29/2019 - 08/14/2019
+
+- [The BSSw site has a new integrated content map ... we encourage your feedback.](../../Articles/BSSwSiteHasANewIntegratedContentMap.md)
+- Display dates: 07/19/2019 - 07/30/2019
+
+- [New blog article ... Celebrating Apollo's 50th Anniversary: Users' Stories from Space](../../Articles/Blog/ApolloGuidanceComputerPart3-wikized.md)
+- Display dates: 07/15/2019 - 07/18/2019
+
+- [New blog article ... Leading a Scientific Software Project: It's All Personal](../../Articles/Blog/LeadingAScientificSoftwareProject.md)
+- Display dates: 06/27/2019 - 07/17/2019
+
+- [New blog article ... Celebrating Apollo's 50th Anniversary: The Oldest Code on GitHub](../../Articles/Blog/ApolloGuidanceComputerPart2-wikized.md)
+- Display dates: 06/17/2019 - 07/01/2019
+
+- [New blog article ... Talking about Software Development at SIAM CSE19](../../Articles/Blog/2019-05-siam-cse19.md)
+- Display dates: 05/29/2019 - 06/16/2019
+
+- [New blog article ... Celebrating Apollo's 50th Anniversary: When 100 FLOPS/Watt Was a Giant Leap](../../Articles/Blog/ApolloGuidanceComputerPart1-wikized.md)
+- Display dates: 05/15/2019 - 05/28/2019
+
+- [New blog article ... Streamlining Software Development through Continuous Integration](../../Articles/Blog/StreamliningSwDevptThroughContinuousIntegration.md)
+- Display dates: 04/26/2019 - 05/14/2019
+
+- [New blog article ... Continuous Technology Refreshment: An Introduction Using Recent Tech Refresh Experiences on VisIt](../../Articles/Blog/ContinuousTechnologyRefreshment.md)
+- Display dates: 04/11/2019 - 04/25/2019
+
+- [New blog article ... 2018 BSSw Fellows Tackle Challenges in Scientific Productivity](../../Articles/Blog/Fellows2018Contributions.md)
+- Display dates: 03/29/2019 - 04/11/2019
+
 - [New blog article ... Accelerating Scientific Discovery with Reusable Software: Special issue of IEEE CiSE](../../Articles/Blog/AcceleratingScientificDiscoveryWithReusableSoftwareCiSE2019.md)
 - Display dates: 03/18/2019 - 03/29/2019
 
@@ -89,25 +166,11 @@ Announcement:
 
 - [Pending BSSw Site Launch at SC17 2017](../../Articles/Blog/PendingBSSwSiteLaunchNov2017.md)
 - Display dates: 09/27/2017 - 11/12/2017
---->
 
-<!---
-Announcement:
-- [Blog post: Improve user confidence in your software updates](../../Articles/Blog/ImproveUserConfidenceInSwUpdates.md)
-- Display dates: 04/12/2017 - 04/16/2017
-- Display dates: 04/29/2017 - 10/04/2017
---->
+-->
 
-<!---
-Announcement:
-- [Scientific Software Days Conference, April 27-28, 2017](../../Events/Conference.ScientificSoftwareDays17.md)
-- Display dates: 04/19/2017 - 10/28/2017
---->
-
-<!--- Notes:
+<!-- Notes:
 - Listing more than one announcement breaks the vehicle. If you choose to promote your announcement over an existing one, please comment out the previous to make it clear what you've replaced
-- No announcement scheduled for 4/17/2017 - 4-18/2017 (as an example of days when no announcements are to be posted)
-- Support multiple display date ranges for each announcement
 - Question: Max length of announcement text?
-- Separate announcement files by year
---->
+-->
+

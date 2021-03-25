@@ -6,7 +6,7 @@ When paired with critical advances in CSE algorithms and software, the enormous 
 
 - [U.S. Exascale Computing Project (ECP)](https://exascaleproject.org "ECP Homepage")
 - [European Exascale Software Initiative (EESI)](http://www.eesi-project.eu "EESI Homepage")
-- [Japanese FLAGSHIP 2020 Project](http://www.aics.riken.jp/fs2020p/en/ "FLAGSHIP 2020 Homepage")
+- [Japanese FLAGSHIP 2020 Project](http://www.riken.jp/en/research/labs/r-ccs/exascale_comput_proj/ "FLAGSHIP 2020 Homepage")
 
 <!--
 LCM: Not displaying properly:
@@ -20,7 +20,7 @@ LCM: Not displaying properly:
 The transition of applications to exploit massive on-node concurrency, the requirement to couple physics and scales, and the continued disruption in the underlying hardware, system software, and programming environments -- all these together create the most challenging environment for developing CSE applications in at least two decades.  Software is escalating in complexity as a result of increases in system scale and heterogeneity and the demand for fundamental algorithm and software refactoring. In turn this complexity raises daunting issues in deploying, coordinating, extending, maintaining, and effectively using libraries, frameworks, tools, and application-specific infrastructure.  Moreover, as scientific applications increase in sophistication, interdisciplinary collaboration using software developed by independent groups becomes essential.  This situation brings with it a unique opportunity—and an implicit mandate—to fundamentally change how scientific software is designed, developed, and sustained.  
 
 ## Where do I go next?
-- **Investigate** the BSSw's offerings. See the [BSSw Homepage](../Homepage.md)
+- **Investigate** the BSSw's offerings. See the [BSSw Homepage](https://bssw.io)
 - **Explore** the resources below.
 
 <!--
@@ -28,9 +28,11 @@ Featured resources for the Exascale Computing Community.
 Edit this list to change resources that appear on the front-end site.
 -->
 
-* [What Is Performance Portability for CSE Applications?](../../CuratedContent/WhatIsPerfPortabilityForCseApps.md)
+* [Preparing the Next Generation of Supercomputer Users](../../Articles/Blog/ATPESC.md)
 
-* [How to Enable Performance Portability for CSE Applications](../../CuratedContent/HowToEnablePerfPortabilityForCseApps.md)
+* [Porting Codes to New Architectures](../../Articles/Blog/2018-11-messer-porting.md)
+
+* [FLASH5 Refactoring and PSIP](../../Articles/Blog/FlashPsipProcess.md)
 
 * [Planning for Better Software: PSIP-Tools](../../CuratedContent/PlanningUsingPSIPs.md)
 

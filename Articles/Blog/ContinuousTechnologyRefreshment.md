@@ -1,13 +1,10 @@
-# Continuous Technology Refreshment: An introduction using recent tech refresh experiences on VisIt
+# Continuous Technology Refreshment: An Introduction Using Recent Tech Refresh Experiences on VisIt
 
 **Hero Image:**
-- <a href='https://raw.githubusercontent.com/betterscientificsoftware/images/master/Blog_TheGreatMigration_bikes.png'><img src='https://raw.githubusercontent.com/betterscientificsoftware/images/master/Blog_TheGreatMigration_bikes.png' /></a>
+- <img src="https://github.com/betterscientificsoftware/images/raw/master/Blog_0419_CTR_1176_432.png" />[Image source: NASA]
 
-<!--
-Reference for image rights, https://commons.wikimedia.org/wiki/File:Bicycle_evolution-fr.svg
--->
 
-#### Publication date: April 11, 2019
+#### Publication date: April 12, 2019
 
 #### Contributed by [Mark C. Miller](https://github.com/markcmiller86) and [Holly Auten](https://github.com/hauten)
 
@@ -94,7 +91,7 @@ dribble them out over numerous releases. As part of the 3.0 beta release, the Vi
 from VTK-6 to VTK-8 which necessitated refreshing GL infrastructure as well, 
 from `.tar.gz` to `.7z`, which reduced storage for binary test data by 50%. Later this year, we plan to refresh
 commit hooks (e.g., tab characters, `abort()` calls, file name case clashing, using statements in headers),
-do CI testing (we are currntly testing only proper compilation), and move our
+do CI testing (we currently test only proper compilation), and move our
 [web site](https://wci.llnl.gov/simulation/computer-codes/visit/) and
 [test dashboard](https://portal.nersc.gov/project/visit/) to GitHub as well.
 
@@ -103,10 +100,9 @@ Most code teams find it necessary to engage in activities similar to those descr
 in response to changing development workflow needs. For example, in its 25+ year history, the
 [PETSc](https://www.mcs.anl.gov/petsc/) project has refreshed revision control systems on four separate occasions.
 Each of these changes was motivated by the growing set of distributed developers collaborating on PETSc.
-The HPC software community doesn't use the term *Continuous Technology Refreshment*, possibly because
-it is typically used only in the context of hardware. However, we hope this article demonstrates that CTR is equally
-applicable to software. Technology refresh can represent a lot of work. Proper planning, prototyping, and testing can
-help  make it go more smoothly.
+The HPC software community has yet to adopt the term *Continuous Technology Refreshment* to characterize such
+activities. However, we hope this article demonstrates that CTR is an essential aspect of sustaining software.
+Although technology refresh efforts can be costly, the benefits are improved development workflow and reduced long-term costs.
 
 ### Author bios
 
@@ -123,10 +119,10 @@ routinely contributes articles regarding various aspects of on-going software
 development activities within the Computation department at [LLNL](https://www.llnl.gov).
 
 <!--
-Publish: preview
-RSS update: 2019-04-XX
+Publish: yes
+RSS update: 2019-04-12
 Categories: development
-Topics: version control, issue tracking, documentation
+Topics: revision control, issue tracking, documentation
 Tags: bssw-blog-article
 Level: 2
 Prerequisites: default

@@ -3,6 +3,7 @@
 Flexible mechanistic modeling and simulation are critical for addressing important environmental questions.
 
 <img src='https://github.com/betterscientificsoftware/images/raw/master/use-case-meander.png' class='logo' />  
+
 The Environmental System Science Community considers questions such as the prediction of water availability and quality from watersheds under prolonged drought and warming temperatures. Integrated multidisciplinary projects in the DOE Office of Biological and Environmental Research (BER) are developing mechanistic process-rich models of nutrient and carbon cycling and are collecting field and laboratory data to help inform and constrain these models.  
 
 ## Software challenges for environmental system science
@@ -10,22 +11,22 @@ These science questions raise many software challenges.  While legacy codes must
 
 ## Where do I go next?
 - **Explore** the resources below.
-- **Investigate**  BSSw's offerings [BSSw Homepage](../Homepage.md).
+- **Investigate**  BSSw's offerings [BSSw Homepage](https://bssw.io).
 
 <!--
 Featured resources for the Environmental System Science Community.
 Edit this list to change resources that appear on the front-end site.
 -->
 
+* [Streamlining Software Development through Continuous Integration](../../Articles/Blog/StreamliningSwDevptThroughContinuousIntegration.md )
+
+* [Enabling Interoperable Biogeochemistry with Alquimia in the xSDK](../../CuratedContent/EnablingInteroperableBiogeochemistryWithAlquimia.md)
+
 * [Multiphysics Simulations: Challenges and Opportunities](../../CuratedContent/MultiphysicsSimulationsChallengesAndOpportunities.md)
-
-* [Enabling Interoperable Biogeochemistry with Alquimia in the xSDK](../../EnablingInteroperableBiogeochemistryWithAlquimia.md)
-
-* [Team of Teams: Strategies for Large Organizations](../../CuratedContent/TeamOfTeams.md)
 
 * [Planning for Better Software: PSIP-Tools](../../CuratedContent/PlanningUsingPSIPs.md)
 
-* [Test Driven Development in Scientific Software: A Survey](../../TestDrivenDevptInScientificSwASurvey.md)
+* [Test Driven Development in Scientific Software: A Survey](../../CuratedContent/TestDrivenDevptInScientificSwASurvey.md)
 
 <!---
 Publish: yes
