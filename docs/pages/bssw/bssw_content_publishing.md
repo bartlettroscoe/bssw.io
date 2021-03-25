@@ -45,7 +45,8 @@ The following steps assume that the BSSw editorial team has already determined t
 
 ### Pre-publishing Checks
 * Finalize the category(ies), topic(s) and other parameters in metadata.
-* Check on preview site to confirm overall display ("publish: preview" in metadata).
+* Add the `preview` label on the PR (so PR branch will merge to 'preview' branch)
+* Check on preview site to confirm overall display ("Publish: preview" in metadata).
 * Change "publish: yes" in metadata before merging into master.
 
 {% include links.html %}
