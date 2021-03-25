@@ -44,11 +44,11 @@ He argues that no matter what change is made to the code, we must always maintai
 The main contribution of this book is the *Legacy Code Change Algorithm*:
 
 1. **Identify the targeted legacy code:**
-    - **Identify change points** for the target change or new code addition.
-    - **Find test points** where the behavior of the code can be sensed.
+    * **Identify change points** for the target change or new code addition.
+    * **Find test points** where the behavior of the code can be sensed.
 2. **Get targeted legacy code into test harness and cover with tests:**
-    - **Break dependencies** (very carefully and often without sufficient tests) and get the targeted legacy code into a test harness.
-    - **Cover targeted legacy code** with (characterization) unit tests.
+    * **Break dependencies** (very carefully and often without sufficient tests) and get the targeted legacy code into a test harness.
+    * **Cover targeted legacy code** with (characterization) unit tests.
 3. **Add new functionality with new tests** (usually following the Test Driven Development (TDD) process).
 4. **Refactor** tested code to remove duplication, clean up, etc.
 
