@@ -2,13 +2,13 @@
 
 To view these instructions, please hit the **Preview** tab (above left). After you have read all of these instructions, delete them entirely from the body of this issue before entering your submission.
 
-Be sure to select 'master' as the 'base' branch against which to create this pull request.
+Be sure to select `master` as the `base` branch above as the target for this PR.
 
-Provide a general summary of your changes in the Title above.
+Provide a general summary of your changes in the title above.
 
-Fill in the **Description** section with minimal text describing the changes/new contributions in this PR and replace 
+Fill in the below **Description** section with minimal text describing the changes/new contributions in this PR and replace `<...>` as appropriate.
 
-Remove the beginning `<!--` and ending `-->` comment markers for the checklist being used and delete the other checklists.
+Remove the beginning `<!--` and ending `-->` comment markers for the correct checklist for this PR and delete the other checklists.
 
 
 # Description
