@@ -15,17 +15,18 @@ Remove the beginning `<!--` and ending `-->` markers the the checklist for the t
 
 EB Member: @`<eb-member-id>`
 
-Addressed issue #`<issue-id>`
+Addresses issue #`<issue-id>`
 
+`<Other minimal inforamtion about the PR.>`
 
-## Checklist for regular files displayed on bssw.io site
+## Checklist for files displayed on bssw.io site
 
 <!-- REMOVE THIS COMMENT MARKER IF USING BELOW CHECKLIST
 TODO: Fill in!
 REMOVE THIS COMMENT MARKER IF USING ABOVE CHECKLIST -->
 
 
-## Checklist for regular files displayed on bssw.io site using formal citations
+## Checklist for files displayed on bssw.io site using formal citations
 
 <!-- REMOVE THIS COMMENT MARKER IF USING BELOW CHECKLIST
 * [ ] `@mention` the BSSw.io editorial board member `@<eb-member>` assigned to shepherd your content above.
@@ -33,15 +34,15 @@ REMOVE THIS COMMENT MARKER IF USING ABOVE CHECKLIST -->
 * [ ] Add label `content: <content-type>` for the type of contribution.
 * [ ] Inspect the content in the `*.md` file(s) as rendered in GitHub for this PR.
 * [ ] Add one or more more EB member reviewers to the PR.
-* [ ] Add to Project `Content Development`.
+* [ ] Add to Project `Content Development` (see [content development]).
 * [ ] Add [meta-data] to the `*.md` file(s) (set `Publish: preview`).
 * [ ] Ensure `wikize_refs.py -i <base>.md` is run and commit (see [wikize_refs.py]).
 * [ ] Add label `preview` (so PR branch will be merged to 'preview' branch and watch for possible merge failures).
 * [ ] Rebuild [preview] site and confirm new content is there, renders correctly and is returned in searches.
-* [ ] Make any final changes in the PR needed.
-* [ ] Ensure `wikize_refs.py -i <base>.md` is run and commit (see [wikize_refs.py]).
+* [ ] Make any final changes to the PR based on feedback.
+* [ ] Ensure `wikize_refs.py -i <base>.md` is run and commit.
 * [ ] Rebuild [preview] site and re-confirm content looks correct.
-* [ ] Ensure at least one reviewer signs off on the changes.
+* [ ] Ensure at least one reviewer signs off on the final changes.
 * [ ] Change meta-data to `Publish: yes` and commit if the document is fully ready to publish.
 * [ ] Merge PR (but keep this PR in "Item Review" in [content development]).
 * [ ] Verify new new contribution shows up on [bssw.io] as expected.
@@ -60,6 +61,7 @@ REMOVE THIS COMMENT MARKER IF USING ABOVE CHECKLIST -->
 * [ ] Ensure at least one reviewer signs off on the changes.
 * [ ] Once reviewer has approved and checks are passing, then merge the PR.
 REMOVE THIS COMMENT MARKER IF USING ABOVE CHECKLIST -->
+
 
 <!-- Standard links below, leave these! -->
 
