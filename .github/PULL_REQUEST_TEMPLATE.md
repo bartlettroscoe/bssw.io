@@ -22,7 +22,7 @@ Addresses issue #`<issue-id>`
 
 ## Checklist for files displayed on bssw.io site
 
-*Click "Write" above and remove comment mergers to see checklist items*
+*Click "Write" above and remove comment markers to see checklist items*
 
 <!-- REMOVE THIS COMMENT MARKER IF USING BELOW CHECKLIST
 TODO: Fill in!
@@ -31,7 +31,7 @@ REMOVE THIS COMMENT MARKER IF USING ABOVE CHECKLIST -->
 
 ## Checklist for files displayed on bssw.io site using formal citations
 
-*Click "Write" above and remove comment mergers to see checklist items*
+*Click "Write" above and remove comment markers to see checklist items*
 
 <!-- REMOVE THIS COMMENT MARKER IF USING BELOW CHECKLIST
 * [ ] `@mention` the BSSw.io editorial board member `@<eb-member>` assigned to shepherd your content above.
@@ -57,7 +57,7 @@ REMOVE THIS COMMENT MARKER IF USING ABOVE CHECKLIST -->
 
 ## Checklist for (internal) files not displayed on bssw.io site
 
-*Click "Write" above and remove comment mergers to see checklist items*
+*Click "Write" above and remove comment markers to see checklist items*
 
 <!-- REMOVE THIS COMMENT MARKER IF USING BELOW CHECKLIST
 * [ ] Set list of Reviewers (please at least one).
