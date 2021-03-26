@@ -32,7 +32,7 @@ Addresses issue #`<issue-id>`
 * [ ] Add label `content: <content-type>` for the type of contribution.
 * [ ] Add to Project `Content Development` (see [content development]).
 * [ ] Inspect the content in the `*.md` file(s) as rendered in GitHub for this PR.
-* [ ] Add one or more reviewers. [Optional]
+* [ ] Add one or more Reviewers.
 * [ ] Add [meta-data] to the `*.md` file(s) (set `Publish: preview`).
 * [ ] Add label `preview` (so PR branch will be merged to 'preview' branch and watch for possible merge failures).
 * [ ] Rebuild [preview] site and confirm new content is there, renders correctly and is returned in searches.
@@ -58,7 +58,7 @@ REMOVE THIS COMMENT MARKER IF USING ABOVE CHECKLIST -->
 * [ ] Add label `content: <content-type>` for the type of contribution.
 * [ ] Add to Project `Content Development` (see [content development]).
 * [ ] Inspect the content in the `*.md` file(s) as rendered in GitHub for this PR.
-* [ ] Add one or more reviewers. [Optional]
+* [ ] Add one or more Reviewers.
 * [ ] Add [meta-data] to the `*.md` file(s) (set `Publish: preview`).
 * [ ] Ensure `wikize_refs.py -i <base>.md` is run and commit (see [wikize_refs.py]).
 * [ ] Add label `preview` (so PR branch will be merged to 'preview' branch and watch for possible merge failures).
