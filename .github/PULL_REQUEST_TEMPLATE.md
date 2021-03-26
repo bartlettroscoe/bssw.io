@@ -8,7 +8,7 @@ Provide a general summary of your changes in the title above.
 
 Fill in the below **Description** section with minimal text describing the changes/new contributions in this PR and replace `<...>` as appropriate.
 
-Remove the beginning `<!--` and ending `-->` comment markers for the correct checklist for this PR and delete the other checklists.
+Remove the beginning `<!--` and ending `-->` comment markers for the correct **Checklist** for this PR and delete the other Checklists.
 
 
 # Description
