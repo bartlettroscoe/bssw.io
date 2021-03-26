@@ -6,9 +6,9 @@ Be sure to select 'master' as the 'base' branch against which to create this pul
 
 Provide a general summary of your changes in the Title above.
 
-Replace these instructions with minimal text describing the changes/new contributions in this PR and put in a `#<issue-id>` reference to the 
+Fill in the **Description** section with minimal text describing the changes/new contributions in this PR and replace 
 
-Remove the beginning `<!--` and ending `-->` markers the the checklist for the type of contrubtion being made below and delete the other checklists.
+Remove the beginning `<!--` and ending `-->` comment markers for the checklist being used and delete the other checklists.
 
 
 # Description
@@ -17,7 +17,8 @@ EB Member: @`<eb-member-id>`
 
 Addresses issue #`<issue-id>`
 
-`<Other minimal inforamtion about the PR.>`
+`<Other minimal information about the PR.>`
+
 
 ## Checklist for files displayed on bssw.io site
 
@@ -33,7 +34,7 @@ REMOVE THIS COMMENT MARKER IF USING ABOVE CHECKLIST -->
 * [ ] Assign this PR to the `<eb-member>`.
 * [ ] Add label `content: <content-type>` for the type of contribution.
 * [ ] Inspect the content in the `*.md` file(s) as rendered in GitHub for this PR.
-* [ ] Add one or more more EB member reviewers to the PR.
+* [ ] Add one or more EB member reviewers to the PR.
 * [ ] Add to Project `Content Development` (see [content development]).
 * [ ] Add [meta-data] to the `*.md` file(s) (set `Publish: preview`).
 * [ ] Ensure `wikize_refs.py -i <base>.md` is run and commit (see [wikize_refs.py]).
@@ -50,7 +51,7 @@ REMOVE THIS COMMENT MARKER IF USING ABOVE CHECKLIST -->
 REMOVE THIS COMMENT MARKER IF USING ABOVE CHECKLIST -->
 
 
-## Checklist for files not displayed on bssw.io site
+## Checklist for (internal) files not displayed on bssw.io site
 
 <!-- REMOVE THIS COMMENT MARKER IF USING BELOW CHECKLIST
 * [ ] Set list of Reviewers (please at least one).
