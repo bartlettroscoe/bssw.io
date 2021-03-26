@@ -34,8 +34,8 @@ REMOVE THIS COMMENT MARKER IF USING ABOVE CHECKLIST -->
 *Click "Write" above and remove comment markers to see checklist items*
 
 <!-- REMOVE THIS COMMENT MARKER IF USING BELOW CHECKLIST
-* [ ] `@mention` the BSSw.io editorial board member `@<eb-member>` assigned to shepherd your content above.
-* [ ] Assign this PR to the `<eb-member>`.
+* [ ] `@mention` the BSSw.io editorial board member `@<eb-member-id>` assigned to shepherd your content above.
+* [ ] Assign this PR to `<eb-member-id>`.
 * [ ] Add label `content: <content-type>` for the type of contribution.
 * [ ] Inspect the content in the `*.md` file(s) as rendered in GitHub for this PR.
 * [ ] Add one or more EB member reviewers to the PR.
