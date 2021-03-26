@@ -34,7 +34,7 @@ REMOVE THIS COMMENT MARKER IF USING ABOVE CHECKLIST -->
 *Click "Write" above and remove comment markers to see checklist items*
 
 <!-- REMOVE THIS COMMENT MARKER IF USING BELOW CHECKLIST
-* [ ] `@mention` the BSSw.io editorial board member `@<eb-member-id>` in **Description** above assigned to shepherd your content above.
+* [ ] `@mention` the BSSw.io editorial board member `@<eb-member-id>` in **Description** above assigned to shepherd your PR.
 * [ ] Add the `<issue-id>` in the **Description** above for the associated GitHub Issue.
 * [ ] Assign this PR to the EB member `<eb-member-id>`.
 * [ ] Assign this PR to the author of the PR `<pr-author-id>`.
