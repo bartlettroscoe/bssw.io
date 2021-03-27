@@ -1,11 +1,12 @@
 # Working Effectively with Legacy Code
+
 <!--deck text start-->
 Legacy code can be challenging to use and extend. The book *Working Effectively with Legacy Code*, written by *Michael Feathers*, talks about legacy code and how to work effectively with it.
 <!--deck text end-->
 
 #### Contributed by [Roscoe A. Bartlett](https://github.com/bartlettroscoe)
-#### Publication date: June 5, 2019
 
+#### Publication date: June 5, 2019
 
 Resource information | Details 
 :--- | :--- 
@@ -43,11 +44,11 @@ He argues that no matter what change is made to the code, we must always maintai
 The main contribution of this book is the *Legacy Code Change Algorithm*:
 
 1. **Identify the targeted legacy code:**
-    - **Identify change points** for the target change or new code addition.
-    - **Find test points** where the behavior of the code can be sensed.
+    * **Identify change points** for the target change or new code addition.
+    * **Find test points** where the behavior of the code can be sensed.
 2. **Get targeted legacy code into test harness and cover with tests:**
-    - **Break dependencies** (very carefully and often without sufficient tests) and get the targeted legacy code into a test harness.
-    - **Cover targeted legacy code** with (characterization) unit tests.
+    * **Break dependencies** (very carefully and often without sufficient tests) and get the targeted legacy code into a test harness.
+    * **Cover targeted legacy code** with (characterization) unit tests.
 3. **Add new functionality with new tests** (usually following the Test Driven Development (TDD) process).
 4. **Refactor** tested code to remove duplication, clean up, etc.
 
@@ -104,7 +105,6 @@ After reading this book, you should be convinced of the need for unit testing an
 
 <br>
 
-
 References | &nbsp;
 :--- | :---
 <a name="ref1"></a>1 | [Fowler, Martin. Refactoring, Addison Wesley, 1999](https://martinfowler.com/books/refactoring.html)
@@ -113,7 +113,6 @@ References | &nbsp;
 <a name="ref4"></a>4 | [Beck, Kent. Test Driven Development: By Example. Addison Wesley, 2003](https://www.pearson.com/us/higher-education/program/Beck-Test-Driven-Development-By-Example/PGM206172.html)
 
 <br>
-
 
 <!---
 Publish: yes
@@ -125,4 +124,3 @@ Level: 2
 Prerequisites: defaults
 Aggregate: none
 --->
-
