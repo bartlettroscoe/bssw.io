@@ -105,7 +105,6 @@ After reading this book, you should be convinced of the need for unit testing an
 
 <br>
 
-
 References | &nbsp;
 :--- | :---
 <a name="ref1"></a>1 | [Fowler, Martin. Refactoring, Addison Wesley, 1999](https://martinfowler.com/books/refactoring.html)
@@ -114,7 +113,6 @@ References | &nbsp;
 <a name="ref4"></a>4 | [Beck, Kent. Test Driven Development: By Example. Addison Wesley, 2003](https://www.pearson.com/us/higher-education/program/Beck-Test-Driven-Development-By-Example/PGM206172.html)
 
 <br>
-
 
 <!---
 Publish: yes
@@ -126,4 +124,3 @@ Level: 2
 Prerequisites: defaults
 Aggregate: none
 --->
-
