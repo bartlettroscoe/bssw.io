@@ -1,11 +1,12 @@
 # Working Effectively with Legacy Code
+
 <!--deck text start-->
 Legacy code can be challenging to use and extend. The book *Working Effectively with Legacy Code*, written by *Michael Feathers*, talks about legacy code and how to work effectively with it.
 <!--deck text end-->
 
 #### Contributed by [Roscoe A. Bartlett](https://github.com/bartlettroscoe)
-#### Publication date: June 5, 2019
 
+#### Publication date: June 5, 2019
 
 Resource information | Details 
 :--- | :--- 
