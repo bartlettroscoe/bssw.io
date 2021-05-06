@@ -11,7 +11,7 @@ If you follows these guidelines, you will usually stay out of serious trouble an
 
 <a name="minimal_setup"/>
 
-**Set up minimal global settings right away on every new computer** <sup>[[minimal_setup](#minimal_setup)]</sup>
+**A) Set up minimal global settings right away on every new computer** <sup><a href="#minimal_setup">[minimal_setup]</a></sup>
 
 Always set up a consistent global Git `user.name` and `user.email` on every machine where you use Git right away.
 (Otherwise you will show up as many different developers according to Git, and it is a pain to resolve these in all of the Git repos you commit to after the fact).
