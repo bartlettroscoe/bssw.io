@@ -124,7 +124,7 @@ Big generated (binary) files committed to a git repo get stuck in the Git histor
 Never force push to a shared branch unless everyone involved really knows what they are doing.  Very few Git users know how to adjust to a forced reset remote branch or even what that means.
 (However, if everyone involved knows how to adjust with a forced pushed reset branch to a (temp) shared branch, then force pushes are fine.)
 
-There are many other helpful guidelines that one can come up with for using Git but the ones above are arguably the most helpful for Git beginners (and some people that have been using Git for many years but never really learned these basics).
+There are many other helpful guidelines that you can come up with for using Git but the ones above are arguably the most helpful for Git beginners (and some people that have been using Git for many years but never learned these basic guidelines).
 
 <!---
  Publish: preview
