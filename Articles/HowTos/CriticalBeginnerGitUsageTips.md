@@ -10,15 +10,15 @@ If you follows these guidelines, you will usually stay out of serious trouble an
 #### Publication date: May ??, 2021
 
 **Guidelines:**
-* [Set up minimal global settings right away on every new computer](#minimal_setup)
-* [Create proper logical commits and commit messages](#logical_commits)
-* [Create small local "checkpoint" commits then cleanup with 'git rebase -i'](#checkpoint_commits_rebase_i)
-* [Create local commits for local changes before running any commands that might modify/overwrite uncommitted changes](#commit_before_modifying_ops)
-* [Back up local branches every few hours of work by pushing them to some remote Git repo on a remote machine](#backup_local_branches)
-* [You can always recover an earlier state of any of your local branches](#recover_earlier_state)
-* [Never delete a local Git repo (unless you are completely done with it)](#never_delete_local_repo)
-* [Don’t commit large generated (binary) files in a Git repo](#dont_commit_big_generated_files)
-* [Never do `git push -f` to a remote branch shared with other people](#never_force_push)
+* [Set up minimal global settings right away on every new computer.](#minimal_setup)
+* [Create proper logical commits and commit messages.](#logical_commits)
+* [Create small local "checkpoint" commits then cleanup with 'git rebase -i'.](#checkpoint_commits_rebase_i)
+* [Create local commits for local changes before running any commands that might modify/overwrite uncommitted changes.](#commit_before_modifying_ops)
+* [Back up local branches every few hours of work by pushing them to some remote Git repo on a remote machine.](#backup_local_branches)
+* [You can always recover an earlier state of any of your local branches.](#recover_earlier_state)
+* [Never delete a local Git repo (unless you are completely done with it).](#never_delete_local_repo)
+* [Don’t commit large generated (binary) files in a Git repo.](#dont_commit_big_generated_files)
+* [Never do `git push -f` to a remote branch shared with other people.](#never_force_push)
 
 <a name="minimal_setup"/>
 
