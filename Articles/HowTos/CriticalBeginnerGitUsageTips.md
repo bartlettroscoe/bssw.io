@@ -9,7 +9,10 @@ If you follows these guidelines, you will usually stay out of serious trouble an
 #### Contributed by [Roscoe A. Bartlett](https://bartlettroscoe.github.io/ "Roscoe A. Bartlett")
 #### Publication date: May ??, 2021
 
-**A) Set up minimal global settings right away on every new computer.**
+<a name="minimal_setup"/>
+
+### A) Set up minimal global settings right away on every new computer <sup>[minimal_setup](#minimal_setup)]</sup>
+
 Always set up a consistent global Git `user.name` and `user.email` on every machine where you use Git right away.
 (Otherwise you will show up as many different developers according to Git, and it is a pain to resolve these in all of the Git repos you commit to after the fact).
 Also, disable push of all branches by default (prior to Git 2.0) or a simple `git push` will push all branches.
