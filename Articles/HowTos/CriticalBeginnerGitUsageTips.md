@@ -12,7 +12,7 @@ If you follows these guidelines, you will usually stay out of serious trouble an
 **Guidelines:**
 * [Set up minimal global settings right away on every new computer](#minimal_setup)
 * [Create proper logical commits and commit messages](#logical_commits)
-* [Create small local "checkpoint" commits then cleanup with 'git rebase -i' Before pushing](#checkpoint_commits_rebase_i)
+* [Create small local "checkpoint" commits then cleanup with 'git rebase -i'](#checkpoint_commits_rebase_i)
 * [Always create local commits for your changes in local branches before you run any Git commands that might modify your local uncommitted changes](#commit_before_modifying_ops)
 * [Back up local branches every few hours of work by pushing them to some remote Git repo on a remote machine](#backup_local_branches)
 * [You can always recover an earlier state of any of your local branches](#recover_earlier_state)
@@ -73,7 +73,7 @@ Also see: #456, #789
 ```
 <a name="checkpoint_commits_rebase_i"/>
 
-###  Create small local "checkpoint" commits then cleanup with 'git rebase -i' Before pushing [[checkpoint_commits_rebase_i](#checkpoint_commits_rebase_i)]
+###  Create small local "checkpoint" commits then cleanup with 'git rebase -i' [[checkpoint_commits_rebase_i](#checkpoint_commits_rebase_i)]
 
 To provide for easy local "undos" and better organization of changes into final change-sets, commit often locally using "checkpoint" commits (convention is to use commit summary lines starting with "WIP:").
 But before pushing these commits to a remote shared branch, use [`git rebase -i @{u}`](https://www.atlassian.com/git/tutorials/rewriting-history#git-rebase-i) to clean up and reorganize the commits into good "logical" commits (see "SEPARATE CHANGES" above).
