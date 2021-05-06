@@ -9,9 +9,12 @@ If you follows these guidelines, you will usually stay out of serious trouble an
 #### Contributed by [Roscoe A. Bartlett](https://bartlettroscoe.github.io/ "Roscoe A. Bartlett")
 #### Publication date: May ??, 2021
 
+**Guidelines:**
+* [Set up minimal global settings right away on every new computer](#minimal_setup)
+
 <a name="minimal_setup"/>
 
-### Set up minimal global settings right away on every new computer</big> [[minimal_setup](#minimal)]
+### Set up minimal global settings right away on every new computer</big> [[minimal_setup](#minimal_setup)]
 
 Always set up a consistent global Git `user.name` and `user.email` on every machine where you use Git right away.
 (Otherwise you will show up as many different developers according to Git, and it is a pain to resolve these in all of the Git repos you commit to after the fact).
